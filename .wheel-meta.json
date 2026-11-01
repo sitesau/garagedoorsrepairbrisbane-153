@@ -1,0 +1,22 @@
+{
+  "wheel_id": 605,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-153",
+  "project": "garage-door-repairs-brisbane-diy-vs-professional-451aef08e1024b",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-012",
+  "node_role": "buffer",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane diy vs professional",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-diy-vs-professional-451aef08e1024b/",
+  "tier": "T2",
+  "writeback_nonce": "e90f31df997a58fc",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/garagedoorsrepairbrisbane-012/garage-door-repairs-brisbane.html",
+      "anchor": "a guide to garage door repairs brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
